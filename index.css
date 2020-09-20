@@ -1,0 +1,52 @@
+.t_close img{
+	position: absolute;
+    right: 15px;
+    top: 15px;
+}
+.custom_Container{
+	width: 850px;
+	height: 100%;
+	margin: 0 auto;
+}
+.get_a_demo{
+	font-weight: 600;
+	font-size: 65px;
+}
+.get_a_demo_behind{
+	font-size: 21px;
+    font-weight: 500;
+}
+.book_a_demo{
+	height: 57px;
+    border: none;
+    width: 272px;
+    background-color: black;
+    border-radius: 0px;
+}
+.book_a_demo label,span{
+	font-size: 22px;
+	margin-top: 6px;
+}
+.book_a_demo:hover{
+	background-color:#7e5fff; 
+}
+.form-control{
+	border-radius: 0px;
+    border: 2px solid black;
+    line-height: 3;
+    font-weight: 500;
+}
+.privacy_policy a{
+	text-decoration: underline;
+	color: black;
+}
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+}
+.t_bottom{
+	height: 150px;
+}
